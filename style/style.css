@@ -1,0 +1,135 @@
+*{
+    margin: 0px;
+    padding: 0px;
+     background-color: black;  
+}
+
+.inter-interfont{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+
+.header-nav{
+
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3rem;
+     height: 46px;
+    margin-left: 9rem;
+    margin-right: 9rem; 
+text-align: center;
+padding: 0px;
+ width: 70.25rem;
+height: 3rem;
+font-size: 100%; 
+
+}
+.nav-div2{
+    display: flex;
+    gap: 20px;
+   justify-content: end;
+    /* background-color: antiquewhite; */
+width: 465px;
+height: 46px;
+flex-direction: row;
+align-items: center;
+}
+.header{
+    
+    /* background-color: aqua; */ */
+}
+.nav-h3{
+    color: rgb(230, 83, 60);
+font-family: Inter;
+font-size: 36px;
+font-weight: 800;
+line-height: 120%;
+letter-spacing: 0%;
+text-align: left;
+}
+.anchor{
+    text-decoration: none;
+    color: white;
+  
+}
+.btn-nav{
+    border-radius: 46px;
+    background: rgb(230, 83, 60);
+    color: white;
+    border: none;
+align-items: center;
+ padding: 8px 20px 8px 20px;
+
+}
+.hambargur{
+    color: white;
+    width: 24px;
+height: 24px; 
+ display: none; 
+}
+/* navbarend */
+.header-section-div1-h1{
+    color: rgb(255, 255, 255);
+font-size: 70px;
+font-weight: 900;
+/* line-height: 100%; */
+letter-spacing: 0%;
+text-align: left;
+width: 520px;
+height: 285px;
+}
+.header-section-div1-p{
+    width: 520px;
+height: 48px;
+color: rgba(255, 255, 255, 0.5);
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.5px;
+text-align: left;
+}
+.h-s-btn{
+    width: 462px;
+height: 54px;
+align-items: flex-start;
+gap: 14;
+padding: 0px;
+margin: 38px 0px;
+}
+.btn-color{
+    border-radius: 42px;
+    width: 224px;
+    height: 54px;
+background: rgb(230, 83, 60);
+padding: 16px 40px 16px 40px;
+color: white;
+font-size: 17px;
+font-weight: 600;
+line-height: 22px;
+}
+.btn-no-color{
+    border-radius: 42px;
+    border-color: white;
+    border-style: solid;
+    width: 224px;
+    height: 54px;
+padding: 16px 40px 16px 40px;
+color: white;
+font-size: 17px;
+font-weight: 600;
+line-height: 22px;
+
+}
+.header-section{
+    display: flex;
+    margin-left: 9rem;
+    margin-right: 9rem;
+    justify-content: space-between;
+    margin-top: 3rem;
+}
+.header-section-div1{
+  margin-top: 6rem;
+  height: 28rem;
+}

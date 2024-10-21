@@ -1,0 +1,8 @@
+@media screen and (max-width:576px) {
+    .hambargur{
+        color: white;
+        width: 24px;
+    height: 24px;
+    display: block;
+    }
+}
