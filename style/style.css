@@ -1,7 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
-     background-color: black;  
+      background-color:black;   
 }
 
 .inter-interfont{
@@ -125,3 +125,73 @@ line-height: 22px;
   margin-top: 6rem;
   height: 28rem;
 }
+.card-1{
+     position: absolute; 
+    box-sizing: border-box;
+border: 1px solid rgba(255, 255, 255, 0.1);
+border-radius: 12px;
+width: max-content;
+padding: 20px 15px;
+backdrop-filter: blur(20px);
+background: rgba(48, 48, 48, 0.54);
+top: 40%;
+left: 60%;
+}
+.card-2{
+    position: absolute;
+    box-sizing: border-box;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    width: max-content;
+    padding: 20px 40px;
+    backdrop-filter: blur(20px);
+    background: rgba(48, 48, 48, 0.54);
+    top: 77%;
+left: -30%;
+}
+.card-h3{
+    backdrop-filter: blur(20px);
+background: rgba(48, 48, 48, 0.54);
+    color: rgb(250, 250, 249);
+font-size: 30px;
+font-weight: 900;
+line-height: 24px;
+letter-spacing: 0.3px;
+text-align: left;
+}
+.card-h6{
+    backdrop-filter: blur(20px);
+    background: rgba(48, 48, 48, 0.54);
+    color: rgb(250, 250, 249);
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 24px;
+    letter-spacing: 0.3px;
+    text-align: left;
+}
+.card-p{
+    backdrop-filter: blur(20px);
+ background: rgba(48, 48, 48, 0.54); 
+ color: rgba(255, 255, 255, 0.65);
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 1px; */
+    text-align: left;
+}
+/* .header-section{
+    background-color: red;
+}
+.header-section-div1{
+    background-color: green;
+}
+*/
+.banner-img{
+    width: 349px;
+height: 580px;
+left: 877px;
+top: 135px;
+}
+.header-section-div2{
+   position: relative;
+} 
