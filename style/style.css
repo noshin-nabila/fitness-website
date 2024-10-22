@@ -101,6 +101,9 @@ font-size: 17px;
 font-weight: 600;
 line-height: 22px;
 }
+.btn-color-new{
+    display: none;
+}
 .btn-no-color{
     border-radius: 42px;
     border-color: white;
