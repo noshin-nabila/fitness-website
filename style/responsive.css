@@ -122,6 +122,19 @@ margin-left: 30%;
 margin-right: 30%;
 margin-bottom: 2rem;
 }
+.main-section1{
+   width: 100%;
+  height: max-content;
+  display: block;
+  margin-left: 0rem;
+margin-right: 0rem;
+}
+.third-section-div1{
+    display: grid;}
+   
+.img-run-div{
+    margin-left: 0rem;
+}
 
 
 }
