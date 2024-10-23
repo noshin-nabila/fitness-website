@@ -159,6 +159,8 @@ left: 60%;
     background: rgba(48, 48, 48, 0.54);
     top: 77%;
 left: -30%;
+display: flex;
+gap: 1rem;
 }
 .card-h3{
     backdrop-filter: blur(20px);
@@ -220,7 +222,7 @@ letter-spacing: 0.3px;
 text-align: center;
 }
 .second-section{
-    /* position: static;   */
+    
     display: flex;
     text-align: center;
 width: 65.25rem;
@@ -231,11 +233,11 @@ margin-left: 12%;
 margin-right: 10%;
 
 flex-direction: column;
-/* justify-content: flex-start; */ */
+
 align-items: center;
 gap: 58;
 padding: 0px;
-/* background-color: aqua; */
+
 
 }
 .section2-divvvvvv{
@@ -291,6 +293,7 @@ margin-right: 9rem;
 /* justify-content: space-between; */
 margin-top: 3rem;
 }
+
 .third-section-div1{
     display: flex;
     justify-content: space-between; 
@@ -769,4 +772,10 @@ margin: 1rem 0rem;
     padding: 0px;
     margin-left: 50px;
     }
-    
+    .orange-div{
+        width: 30px;
+        height: 30px;
+        background-color: #E6533C;
+        border-radius: 100%;
+        margin-top: 10px;
+    }
