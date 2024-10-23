@@ -710,7 +710,7 @@ margin: 1rem 0rem;
       font-size: 3rem;
       font-weight: 800;
       line-height: 36px;
-      letter-spacing: 0%;
+      letter-spacing: 10%;
       text-align: left;
     }
     .dev1-p{
@@ -729,15 +729,7 @@ margin: 1rem 0rem;
       padding-bottom: 30px;
     
     }
-    .web-div1-img{
-      padding-left: 30px;
-      padding-top: 35px;
-      padding-bottom: 30px;
-      width: 20%;
-      height: 15%;
-     
-    
-    }
+
     .web-div1-img-1{
         padding-left: 30px;
         padding-top: 35px;
@@ -765,7 +757,6 @@ margin: 1rem 0rem;
     .web-dev-second{
       border-radius: 16px;
       background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
-      /* text-align: center; */
       margin-left: 48px;
       margin-right: 48px;
       margin-top: 48px;
