@@ -169,6 +169,87 @@ margin-right: 0rem;
     height: 4rem;
     margin-left: -2.2rem;
 }
+/* BMI */
+.bmi-header {
+    width:32rem;
+    margin-left:-4rem;
+    height: max-content;
+}
+
+.bmi-calcu-container {
+    width: 100%;
+    height: 950px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.bmi-left-content {
+    position: absolute;
+    top: 50px;
+    left: 20%;
+}
+
+.bmi-right-content {
+    position: absolute;
+    top: 40%;
+    left: 1rem;
+
+}
+
+table {
+    width: 400px;
+}
+
+tr {
+    width: 550px;
+    height: 50px;
+}
+
+.bmi-right-tittle {
+    font-size: 20px;
+    margin-left: 5%;
+}
+
+.bmi-right-description {
+    margin-left: 5%;
+}
+
+form {
+    width: 550px;
+    height: 300px;
+}
+
+.flex-input {
+    display: block;
+    display: flex;
+    width: 550px;
+}
+
+.flex-input input {
+    display: block;
+    width: 500px;
+    height: 55px;
+    margin: 10px;
+}
+
+#seclect-activity {
+    width: 280px;
+    height: 55px;
+    margin: 10px;
+}
+
+.form-btn input[type="submit"] {
+    display: block;
+    width: 250px;
+    margin-left: 10px;
+}
+#seclect-activity{
+    width: 97%;
+}
+.form-btn input[type="submit"]{
+    height: 4rem;
+}
 
 /* <!--meet out teem --> */
 .ourteem-div1{
@@ -278,11 +359,4 @@ margin: 0.8rem 2rem;
     font-size: 25px;
     padding-left: 1.5rem;
 }
-
 }
-
-
-
-
-
-
